@@ -110,8 +110,10 @@ hr {
 .courses {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    8grid-column-gap: 7px;
+    grid-column-gap: 7px;
 }
+
+
 
 
 
